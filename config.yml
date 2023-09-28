@@ -1,0 +1,8 @@
+data_file: "hf_test_calculation_fixtures.json"
+output: "stdout"
+postcode: "10120"
+from: 10
+to: 3
+matched_recipes: ["Potato", "Veggie", "Mushroom"]
+output_dir: "./"
+output_file: "stat_output.json"

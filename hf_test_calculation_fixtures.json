@@ -1,0 +1,32 @@
+[
+		{
+		  "postcode": "10224",
+		  "recipe": "Creamy Dill Chicken",
+		  "delivery": "Wednesday 1AM - 7PM"
+		},
+		{
+		  "postcode": "10186",
+		  "recipe": "Cherry Balsamic Pork Chop",
+		  "delivery": "Friday 1AM - 8PM"
+		},
+		{
+		  "postcode": "10163",
+		  "recipe": "Hot Honey Barbecue Chicken Legs",
+		  "delivery": "Tuesday 7AM - 5PM"
+		},
+		{
+			"postcode": "10338",
+			"recipe": "Speedy Steak Fajitas",
+			"delivery": "Thursday 7AM - 5PM"
+		},
+		{
+			"postcode": "10120",
+			"recipe": "Cherry Balsamic Pork Chop",
+			"delivery": "Monday 7AM - 9PM"
+		},
+		{
+			"postcode": "10120",
+			"recipe": "Cherry Balsamic Pork Chop",
+			"delivery": "Tuesday 10AM - 4PM"
+		}
+]

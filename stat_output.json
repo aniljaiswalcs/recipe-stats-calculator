@@ -1,0 +1,32 @@
+{
+	"unique_recipe_count": 4,
+	"count_per_recipe": [
+		{
+			"recipe": "Cherry Balsamic Pork Chop",
+			"count": 3
+		},
+		{
+			"recipe": "Creamy Dill Chicken",
+			"count": 1
+		},
+		{
+			"recipe": "Hot Honey Barbecue Chicken Legs",
+			"count": 1
+		},
+		{
+			"recipe": "Speedy Steak Fajitas",
+			"count": 1
+		}
+	],
+	"busiest_postcode": {
+		"postcode": "10120",
+		"delivery_count": 2
+	},
+	"count_per_postcode_and_time": {
+		"postcode": "10120",
+		"from": "10AM",
+		"to": "3PM",
+		"delivery_count": 0
+	},
+	"match_by_name": null
+}
